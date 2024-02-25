@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\bin\Debug\net8.0\AreaCalcualtion.deps.json
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\bin\Debug\net8.0\AreaCalcualtion.dll
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\bin\Debug\net8.0\AreaCalcualtion.pdb
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\obj\Debug\net8.0\AreaCalcualtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\obj\Debug\net8.0\AreaCalcualtion.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\obj\Debug\net8.0\AreaCalcualtion.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\obj\Debug\net8.0\AreaCalcualtion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\obj\Debug\net8.0\AreaCalcualtion.dll
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\obj\Debug\net8.0\refint\AreaCalcualtion.dll
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\obj\Debug\net8.0\AreaCalcualtion.pdb
+C:\Users\Administrator\source\repos\AreaCalcualtion\AreaCalcualtion\obj\Debug\net8.0\ref\AreaCalcualtion.dll
